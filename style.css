@@ -1,0 +1,14 @@
+.memory {
+  width: 400px;
+  margin: 40px auto; /* centraliza horizontalmente */
+  text-align: center;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  text-align: center;
+  align-items: center;
+}
