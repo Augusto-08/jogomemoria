@@ -3,51 +3,51 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: 'semibreve',
-      img: 'images/semibreve.png'
+      img: 'semibreve.png'
     },
     {
       name: 'minima',
-      img: 'images/minima.png'
+      img: 'minima.png'
     },
     {
       name: 'seminima',
-      img: 'images/seminima.png'
+      img: 'seminima.png'
     },
     {
       name: 'colcheia',
-      img: 'images/colcheia.png'
+      img: 'colcheia.png'
     },
     {
       name: 'semicolcheia',
-      img: 'images/semicolcheia.png'
+      img: 'semicolcheia.png'
     },
     {
       name: 'fusa',
-      img: 'images/fusa.png'
+      img: 'fusa.png'
     },
     {
       name: 'semibreve',
-      img: 'images/semibreve4.png'
+      img: 'semibreve4.png'
     },
     {
       name: 'minima',
-      img: 'images/minima12.png'
+      img: 'minima12.png'
     },
     {
       name: 'seminima',
-      img: 'images/seminima14.png'
+      img: 'seminima14.png'
     },
     {
       name: 'colcheia',
-      img: 'images/colcheia18.png'
+      img: 'colcheia18.png'
     },
     {
       name: 'semicolcheia',
-      img: 'images/semicolcheia116.png'
+      img: 'semicolcheia116.png'
     },
     {
       name: 'fusa',
-      img: 'images/fusa132.png'
+      img: 'fusa132.png'
     }
   ]
 
